@@ -1,2 +1,2 @@
 # python-data-structure  
-![](/datastructure.JPG)
+![](/datastructure.jpg)
